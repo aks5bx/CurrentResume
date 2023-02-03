@@ -1,4 +1,4 @@
-#### Contents
+### Contents
 
 
 **Resume Links:**  [Current Resume](https://github.com/aks5bx/CurrentResume/blob/main/AdiSrikanthResumeW23.pdf)  **·**  [LinkedIn](https://www.linkedin.com/in/adi-srikanth/)  
