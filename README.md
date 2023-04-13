@@ -3,6 +3,8 @@
 
 **Resume Links:**  [Current Resume](https://github.com/aks5bx/CurrentResume/blob/main/ASResume_S23.pdf) (_Note: download PDF to click on links_)  **·**  [LinkedIn](https://www.linkedin.com/in/adi-srikanth/)  
 
+**GitHub Main Page** [Link Here](https://github.com/aks5bx)
+
 **Personal Email:**  adisrikanth.aks@gmail.com
 
 **Current Employer:**  Nike, inc.
