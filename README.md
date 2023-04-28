@@ -1,24 +1,19 @@
-## Personal
+## Personal Links
 
+**Resume:**  [Current Resume Link](https://github.com/aks5bx/CurrentResume/blob/main/AdiSrikanth_S23.pdf) 
 
-**Resume Links:**  [Current Resume](https://github.com/aks5bx/CurrentResume/blob/main/AdiSrikanth_S23.pdf) (_Note: download PDF to click on links_)  **·**  [LinkedIn](https://www.linkedin.com/in/adi-srikanth/)  
+**Personal Website** [Website Link](https://www.adisrikanthportfolio.com/)
+
+**LinkedIn:** [Profile Link](https://www.linkedin.com/in/adi-srikanth/)  
 
 **GitHub Main Page** [Link Here](https://github.com/aks5bx)
 
 **Personal Email:**  adisrikanth.aks@gmail.com
 
-**Current Employer:**  Nike, inc.
+## Education
 
-## Education - Graduate
+**Graduate:**  Master of Science in Data Science, New York Unviversity
 
-**University:**  New York Unviversity
+**Graduate Capstone:**  Text & Image Embeddings, Graphs for Zillow Group [(Poster here)](https://github.com/aks5bx/CurrentResume/blob/main/Capstone%20Poster.pdf)
 
-**University Email:**  aks9136@nyu.edu
-
-**NYU Capstone:**  Text & Image Embeddings, Graphs for Zillow Group [(Poster here)](https://github.com/aks5bx/CurrentResume/blob/main/Capstone%20Poster.pdf)
-
-## Education - Undergraduate 
-
-**University:**  University of Virginia 
-
-**University Email (inactive):** aks5bx@virginia.edu
+**Undergraduate:**  Bachelor of Arts in Computer Science & Statistics, University of Virginia
