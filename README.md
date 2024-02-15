@@ -1,14 +1,12 @@
 ## Personal Links
 
-**Resume:**  [Current Resume Link](https://github.com/aks5bx/CurrentResume/blob/main/AdiSrikanth_S23.pdf) 
-
-**Personal Website** [Website Link](https://www.adisrikanthportfolio.com/)
+**Resume:**  [Current Resume Link](https://github.com/aks5bx/CurrentResume/blob/main/AdiSrikanth2024.pdf) 
 
 **LinkedIn:** [Profile Link](https://www.linkedin.com/in/adi-srikanth/)  
 
 **GitHub Main Page** [Link Here](https://github.com/aks5bx)
 
-**Personal Email:**  adisrikanth.aks@gmail.com
+**Personal Email:**  adisrikanth.hello@gmail.com
 
 ## Education
 
